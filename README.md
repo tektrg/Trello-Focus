@@ -5,5 +5,3 @@ Saving a lot of space by reducing the size of cover photo which is not always re
 
 - **Link to the extension:**
 https://chrome.google.com/webstore/detail/trello-focus/gcpkllepbfkhkljdbeindfecjpelgefo
-
-- ![image](https://user-images.githubusercontent.com/6711875/78466443-5b764c80-772b-11ea-8d09-73141b68db9f.png)
